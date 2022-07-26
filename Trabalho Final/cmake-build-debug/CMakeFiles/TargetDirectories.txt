@@ -1,0 +1,3 @@
+/home/gbl/Projects/paralela/Trabalho Final/cmake-build-debug/CMakeFiles/Trabalho_Final.dir
+/home/gbl/Projects/paralela/Trabalho Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gbl/Projects/paralela/Trabalho Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
